@@ -107,6 +107,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>smtp-poc</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
