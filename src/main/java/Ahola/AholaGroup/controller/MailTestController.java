@@ -1,8 +1,7 @@
 package Ahola.AholaGroup.controller;
 
 
-import Ahola.AholaGroup.dto.EmailDto;
-import Ahola.AholaGroup.service.email.EmailServiceImpl;
+import Ahola.AholaGroup.email.EmailServiceImpl;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import org.springframework.http.ResponseEntity;

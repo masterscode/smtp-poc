@@ -17,6 +17,5 @@ WORKDIR /app
 
 COPY --from=build /app/target/smtp-poc.jar smtp.jar
 
-EXPOSE 9999
 
 ENTRYPOINT ["java", "-jar", "smtp.jar"]

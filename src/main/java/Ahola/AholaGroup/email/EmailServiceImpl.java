@@ -1,4 +1,4 @@
-package Ahola.AholaGroup.service.email;
+package Ahola.AholaGroup.email;
 
 import Ahola.AholaGroup.dto.EmailDto;
 
